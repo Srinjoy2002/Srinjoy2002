@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Srinjoy2002
-- 👀 I’m interested in Electric Vehicles, Embedded, Robotics, Astronomy
+- 👋 Hi, I’m Srinjoy
+- 👀 I’m interested in Embedded, Robotics, Astronomy
 - 🌱 I’m currently studying Electrical Engineering
 - 📫 How to reach me :-
                         insta-@sri_chakraborty02
