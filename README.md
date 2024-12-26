@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi 👋! My name is Srinjoy Chakraborty</h2>
 <h3 align="left">🌐 Visit My Website</h3>
-<p>You can check out my projects and more on my website: <a href="https://srinjoy-02.vercel.app/" target="_blank">srinjoy2002.github.io/Srinjoy-02</a></p>
+<p>You can check out my projects and more on my website: <a href="https://srinjoy-02.vercel.app/" target="_blank">Srinjoy-02</a></p>
 
 
 ###
